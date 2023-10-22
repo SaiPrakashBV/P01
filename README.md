@@ -3,6 +3,7 @@
 ## Group Members
 ### Srinivas Makkena
 ### Venkata Sai Prakash Boddu
+### Nirupavardhan Lingareddygari
 # Overview:
 This is a project written in python that implements a basic shell ......
 
